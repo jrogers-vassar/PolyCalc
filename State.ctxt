@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=State
+comment1.params=isAccept
+comment1.target=State(boolean)
+comment1.text=\r\n\ constructor\r\n\ @param\ boolean\ isAccept\ \r\n
+comment2.params=
+comment2.target=boolean\ isAccept()
+comment2.text=\r\n\ returns\ true\ or\ false\ based\ on\ isAccept's\ value\ \r\n
+numComments=3

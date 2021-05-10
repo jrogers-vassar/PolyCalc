@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CalcAddition
+comment1.params=
+comment1.target=int\ getPriority()
+comment1.text=\r\n\ returns\ priority.\ add/sub\ has\ lower\ priority\ than\ mult/div\r\n\ @return\ int\ represents\ priority\ \r\n
+comment2.params=a
+comment2.target=void\ setA(Polynomial)
+comment2.text=\r\n\ sets\ value\ of\ polynomial\ a\r\n\ @param\ Polynomial\ to\ set\r\n
+comment3.params=b
+comment3.target=void\ setB(Polynomial)
+comment3.text=\r\n\ sets\ value\ of\ polynomial\ b\r\n\ @param\ Polynomial\ to\ set\ \r\n
+comment4.params=
+comment4.target=CalcAddition()
+comment4.text=\r\n\ constructor\ \r\n
+comment5.params=
+comment5.target=Polynomial\ operate()
+comment5.text=\r\n\ operates\ on\ a\ and\ b\r\n\ @return\ result\ of\ operation\ \r\n
+comment6.params=
+comment6.target=boolean\ isOperator()
+comment6.text=\r\n\ returns\ false\ true\ for\ calculations\ \r\n\ @return\ always\ true\r\n
+comment7.params=
+comment7.target=boolean\ isOperand()
+comment7.text=\r\n\ returns\ false\ for\ calculations\r\n\ @return\ always\ false\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ subtraction\ to\ string\r\n\ @return\ String\ "+";\r\n
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculation
+comment1.params=
+comment1.target=boolean\ isOperand()
+comment1.text=\r\n\ returns\ false\ for\ calculations\r\n\ @return\ always\ false\r\n
+comment2.params=a
+comment2.target=void\ setA(Polynomial)
+comment2.text=\r\n\ sets\ value\ of\ polynomial\ a\r\n\ @param\ Polynomial\ to\ set\r\n
+comment3.params=b
+comment3.target=void\ setB(Polynomial)
+comment3.text=\r\n\ sets\ value\ of\ polynomial\ b\r\n\ @param\ Polynomial\ to\ set\r\n
+comment4.params=
+comment4.target=boolean\ isOperator()
+comment4.text=\r\n\ returns\ false\ true\ for\ calculations\ \r\n\ @return\ always\ true\r\n
+comment5.params=
+comment5.target=int\ getPriority()
+comment5.text=\r\n\ returns\ priority.\ add/sub\ has\ lower\ priority\ than\ mult/div\r\n\ @return\ int\ represents\ priority\ \r\n
+comment6.params=
+comment6.target=Polynomial\ operate()
+comment6.text=\r\n\ operates\ on\ a\ and\ b\r\n\ @return\ Polynomial\ result\ of\ operation\ \r\n
+numComments=7

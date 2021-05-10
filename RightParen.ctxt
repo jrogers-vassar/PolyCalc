@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RightParen
+comment1.params=
+comment1.target=Polynomial\ operate()
+comment1.text=\r\n\ RightParen\ cannot\ operate\r\n\ @return\ null\r\n
+comment2.params=
+comment2.target=int\ getPriority()
+comment2.text=\r\n\ RightParen\ has\ no\ priority,\ is\ not\ an\ operator\r\n\ @return\ int\ 0\r\n
+comment3.params=
+comment3.target=boolean\ isOperator()
+comment3.text=\r\n\ RightParen\ is\ not\ an\ operator\r\n\ @return\ false\r\n
+comment4.params=
+comment4.target=boolean\ isOperand()
+comment4.text=\r\n\ RightParen\ is\ not\ an\ operand\ \r\n\ @return\ false\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ String\ representation\ of\ RightParen\r\n\ @return\ ")"\r\n
+numComments=6

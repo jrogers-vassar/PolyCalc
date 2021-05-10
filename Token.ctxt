@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=
+comment1.target=boolean\ isOperand()
+comment1.text=\r\n\ determines\ whether\ or\ not\ this\ token\ is\ an\ operand\r\n\ @return\ boolean\r\n
+comment2.params=
+comment2.target=boolean\ isOperator()
+comment2.text=\r\n\ determines\ whether\ or\ not\ this\ token\ is\ an\ operator\r\n\ @return\ boolean\r\n
+comment3.params=
+comment3.target=int\ getPriority()
+comment3.text=\r\n\ determines\ this\ tokens\ priority\ (for\ operators)\r\n\ @return\ int\ representation\ of\ priority.\ 2\ for\ mult/div\ 1\ for\ add/sub\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ String\ representation\ of\ token\r\n\ @return\ String\ \r\n
+numComments=5

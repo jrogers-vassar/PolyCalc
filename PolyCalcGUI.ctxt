@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PolyCalcGUI
+comment1.params=
+comment1.target=PolyCalcGUI()
+comment1.text=\r\n\ constructor.\ creates\ polycalc\ gui\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ What\ happens\ when\ the\ button\ is\ pressed.\r\n\ Certain\ errors\ will\ call\ println()\r\n\ This\ could\ be\ fixed\ by\ throwing\ exceptions\ instead\ of\ using\r\n\ println(),\ but\ alas\ I\ am\ out\ of\ time\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
